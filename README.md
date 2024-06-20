@@ -1,4 +1,4 @@
-# cloudland-2024
+# FaaSt ohne Server - Serverless 101
 
 ## Cluster erstellen
 ```console
